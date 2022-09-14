@@ -2,6 +2,9 @@ module.exports = {
   /*
   ** Headers of the page
   */
+  target: "static",
+  rootDir: "./",
+  srcDir: "src",
   head: {
     title: 'starter',
     meta: [
