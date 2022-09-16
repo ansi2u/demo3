@@ -2,4 +2,3 @@
   from = "/"
   to = "developers/flex/"
   status = 200
-  force = true
