@@ -1,6 +1,6 @@
 <template>
   <section class="container">
-    <img src="/my-profile-image.jpg" alt="Nuxt.js Logo" class="logo" />
+    <img src="my-profile-image.jpg" alt="Nuxt.js Logo" class="logo" />
     <h1 class="title">
       Universal Vue.js Application Framework
     </h1>
