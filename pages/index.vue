@@ -4,10 +4,10 @@
     <h1 class="title">
       Universal Vue.js Application Framework
     </h1>
-    <nuxt-link class="button" to="./about">
+    <nuxt-link class="button" to="about">
       About page
     </nuxt-link>
-    <nuxt-link class="button" to="./newpage">
+    <nuxt-link class="button" to="newpage">
       New page
     </nuxt-link>
   </section>
