@@ -1,4 +1,4 @@
 [[redirects]]
   from = "*"
-  to = "/dev/stage1/:splat"
+  to = "dev/stage1/"
   status = 200
