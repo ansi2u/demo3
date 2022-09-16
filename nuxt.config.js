@@ -1,4 +1,7 @@
 module.exports = {
+  router: {
+    base: '/dev/stage1/'
+  },
   /*
   ** Headers of the page
   */
