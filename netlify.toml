@@ -1,4 +1,4 @@
 [[redirects]]
-  from = "/"
-  to = "developers/flex/"
+  from = "*"
+  to = "/dev/stage1/:splat"
   status = 200
